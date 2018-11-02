@@ -33,5 +33,8 @@ WIN_COMBINATIONS = [
  end 
  return false
  end
+ 
+ def full?(board)
+   if position_1
 
         
