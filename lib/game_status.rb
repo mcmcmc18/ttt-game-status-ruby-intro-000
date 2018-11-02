@@ -14,3 +14,6 @@ WIN_COMBINATIONS = [
   [2,4,6]
   [0,4,8]
   ]
+  
+  top_row
+  def won?(board)
