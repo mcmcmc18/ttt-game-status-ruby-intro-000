@@ -32,5 +32,6 @@ WIN_COMBINATIONS = [
   position_7 = board[win_index_7]
   position_8 = board[win_index_8]
   
-  top_row
   def won?(board)
+      if position_1 == "X" && position_2 == "X" && position_3 == "X"
+        
