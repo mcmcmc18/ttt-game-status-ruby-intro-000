@@ -25,6 +25,10 @@ WIN_COMBINATIONS = [
   
   position_1 = board[win_index_1]
   position_2 = board[win_index_2]
+  position_3 = board[win_index_3]
+  position_4 = board[win_index_4]
+  position_5 = board[win_index_5]
+  position_6 = board[win_index_6]
   
   top_row
   def won?(board)
