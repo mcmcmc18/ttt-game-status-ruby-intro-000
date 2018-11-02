@@ -40,5 +40,5 @@ WIN_COMBINATIONS = [
     if position_1 == "X" && position_2 == "X" && position_3 == "X"
    return win_combination
     else if position_4 == "X" && position_5 == "X" && position_6 == "X"
-    else if position_7 == "X" && position_2 == "X" && position_3 == "X"
+    else if position_7 == "X" && position_8 == "X" && position_9 == "X"
         
